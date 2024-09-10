@@ -4,3 +4,7 @@
 原课程链接：https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 
 此仓库是因为无法访问discord社群而发，仅供参考。
+
+本仓库主要使用Markdown这种文本标记语言，这有利于读者下载并导入笔记软件。
+
+还有一点需要说明，为了更加方便的转写，译者将原网站中方框重点标记的部分用markdown的强调语法代替，**例如这样**
